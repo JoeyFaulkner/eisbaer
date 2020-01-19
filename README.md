@@ -1,5 +1,5 @@
 # eisbaer ❄️🐻
-data modelling for nhl.com ice hockey data for visualization + data science
+data modelling for nhl.com ice hockey data for visualization + data science, using python, sqlalchemy and plotly.
 
 ## Motivation
 NHL.com provides a generous amount of data via API endpoints regarding games, plays in those games, players making those plays, amongst other things.
